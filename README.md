@@ -34,7 +34,7 @@ The project has the following features:
 2.  `npm install`
 3.  `npm start`
 4.  'npm install axios'
-5   'npm install react-axios'
+5.  'npm install react-axios'
 
 ## .env file
 
